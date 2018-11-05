@@ -2,7 +2,9 @@
 
 Yet another basic authentication handler for ASP.NET Core 2.1. Supports IdentityServer4 or a database.  
 
-## Getting Started
+### Status
+
+[![Build Status](https://jamesstill.visualstudio.com/SquareWidget.BasicAuth.Core/_apis/build/status/SquareWidgetBasicAuthCore%20-%20CI)](https://jamesstill.visualstudio.com/SquareWidget.BasicAuth.Core/_build/latest?definitionId=11)
 
 ### Register in Startup
 
