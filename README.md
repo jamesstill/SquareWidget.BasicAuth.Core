@@ -1,6 +1,6 @@
 # SquareWidget.BasicAuthentication.Core
 
-Yet another basic authentication handler for ASP.NET Core 2.1. Supports IdentityServer4 or a database.  
+Yet another basic authentication handler for .NET Standard 2.1. Supports IdentityServer4 or a database.  
 
 ### Status
 
@@ -93,7 +93,7 @@ public class BasicAuthenticationService : IBasicAuthenticationService
 
 ## Versioning
 
-Version 1.0 targeting ASP.NET Core 2.1 
+Version 2.1 targeting ASP.NET Standard 2.1 
 
 ## Authors
 
